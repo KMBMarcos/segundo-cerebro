@@ -35,14 +35,14 @@
     "semantic_hash": "dc968c9779753fb75899b26de9a1c221"
   },
   "02 Areas/Marca Personal y Contenido.md": {
-    "mtime": 1783141570.541332,
-    "ast_hash": "d0ac7fd173faa279c4dd81be63d41742",
-    "semantic_hash": "d0ac7fd173faa279c4dd81be63d41742"
+    "mtime": 1783142955.7313275,
+    "ast_hash": "88bf5e72d117819eb3c49311ea1d260e",
+    "semantic_hash": "88bf5e72d117819eb3c49311ea1d260e"
   },
   "02 Areas/ONESVIE.md": {
-    "mtime": 1783141555.702949,
-    "ast_hash": "b53ae118b9c95792a98a2272e6eb2378",
-    "semantic_hash": "b53ae118b9c95792a98a2272e6eb2378"
+    "mtime": 1783142950.724286,
+    "ast_hash": "bbb3451ca07fa3e68bc1f850a9045dc8",
+    "semantic_hash": "bbb3451ca07fa3e68bc1f850a9045dc8"
   },
   "03 Recursos/ASP.NET Core.md": {
     "mtime": 1783141598.7023523,
@@ -75,9 +75,9 @@
     "semantic_hash": "d8935914aef9e1a51ffebfbf71369dad"
   },
   "03 Recursos/Python.md": {
-    "mtime": 1783141595.8685308,
-    "ast_hash": "33009cd905c17a46593e2b51fc6a985f",
-    "semantic_hash": "33009cd905c17a46593e2b51fc6a985f"
+    "mtime": 1783142953.5918887,
+    "ast_hash": "5192f25d6fab56fc044f7cc42a527d0b",
+    "semantic_hash": "5192f25d6fab56fc044f7cc42a527d0b"
   },
   "03 Recursos/SQL Server.md": {
     "mtime": 1783141601.50568,
@@ -115,8 +115,33 @@
     "semantic_hash": "f330b12e42c26600e634d7e6b6aa243a"
   },
   "Home.md": {
-    "mtime": 1783141520.5661812,
-    "ast_hash": "c48e89a18f4b8ebaf0398fba45b1cb00",
-    "semantic_hash": "c48e89a18f4b8ebaf0398fba45b1cb00"
+    "mtime": 1783142947.880192,
+    "ast_hash": "73fa1020ce26f9c06e1f0ce7dbb1492b",
+    "semantic_hash": "73fa1020ce26f9c06e1f0ce7dbb1492b"
+  },
+  "01 Proyectos/Hockjay OS.md": {
+    "mtime": 1783142910.6304374,
+    "ast_hash": "4f8c28ac1d6f60072aa78b779a019ced",
+    "semantic_hash": "4f8c28ac1d6f60072aa78b779a019ced"
+  },
+  "01 Proyectos/Sys-PLA.md": {
+    "mtime": 1783142914.3834925,
+    "ast_hash": "9a526a1f15522e840e19e00d64386795",
+    "semantic_hash": "9a526a1f15522e840e19e00d64386795"
+  },
+  "01 Proyectos/ZaunService.md": {
+    "mtime": 1783142917.3331118,
+    "ast_hash": "043ce7716770f366cdac649ebe1a7fb0",
+    "semantic_hash": "043ce7716770f366cdac649ebe1a7fb0"
+  },
+  "03 Recursos/Perfil GitHub.md": {
+    "mtime": 1783142930.5655265,
+    "ast_hash": "ff197f496d5eab15928f9b84cde8e478",
+    "semantic_hash": "ff197f496d5eab15928f9b84cde8e478"
+  },
+  "04 Archivo/Proyectos de Aprendizaje GitHub.md": {
+    "mtime": 1783142936.3270867,
+    "ast_hash": "3532fd21defd92f2b4098f2705f4cd24",
+    "semantic_hash": "3532fd21defd92f2b4098f2705f4cd24"
   }
 }

@@ -13,7 +13,7 @@ tags: [area, contenido, creatividad]
 
 ## Activos
 - [[Portafolio Web]] — la vitrina central
-- GitHub: KMBMarcos
+- [[Perfil GitHub]] — 20 repos públicos, 14 seguidores
 - LinkedIn: Marcos Mateo Tiburcio
 
 ## Ideas

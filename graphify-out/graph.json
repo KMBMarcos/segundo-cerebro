@@ -59,7 +59,7 @@
       "author": "Marcos Mateo Tiburcio",
       "contributor": null,
       "id": "00_inbox_como_usar_la_bandeja_como_usar_la_bandeja",
-      "community": 0,
+      "community": 3,
       "norm_label": "como usar la bandeja"
     },
     {
@@ -72,7 +72,7 @@
       "author": "Marcos Mateo Tiburcio",
       "contributor": null,
       "id": "01_proyectos_api_gateway_api_gateway",
-      "community": 1,
+      "community": 0,
       "norm_label": "api gateway"
     },
     {
@@ -85,8 +85,21 @@
       "author": "Marcos Mateo Tiburcio",
       "contributor": null,
       "id": "01_proyectos_automatizacion_power_platform_automatizacion_power_platform",
-      "community": 1,
+      "community": 0,
       "norm_label": "automatizacion power platform"
+    },
+    {
+      "label": "Hockjay OS",
+      "file_type": "document",
+      "source_file": "01 Proyectos/Hockjay OS.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Marcos Mateo Tiburcio",
+      "contributor": null,
+      "id": "01_proyectos_hockjay_os_hockjay_os",
+      "community": 1,
+      "norm_label": "hockjay os"
     },
     {
       "label": "Pipeline de Datos ETL",
@@ -111,8 +124,34 @@
       "author": "Marcos Mateo Tiburcio",
       "contributor": null,
       "id": "01_proyectos_portafolio_web_portafolio_web",
-      "community": 0,
+      "community": 4,
       "norm_label": "portafolio web"
+    },
+    {
+      "label": "Sys-PLA",
+      "file_type": "document",
+      "source_file": "01 Proyectos/Sys-PLA.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Marcos Mateo Tiburcio",
+      "contributor": null,
+      "id": "01_proyectos_sys_pla_sys_pla",
+      "community": 4,
+      "norm_label": "sys-pla"
+    },
+    {
+      "label": "ZaunService",
+      "file_type": "document",
+      "source_file": "01 Proyectos/ZaunService.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Marcos Mateo Tiburcio",
+      "contributor": null,
+      "id": "01_proyectos_zaunservice_zaunservice",
+      "community": 1,
+      "norm_label": "zaunservice"
     },
     {
       "label": "Aprendizaje Azure",
@@ -124,7 +163,7 @@
       "author": "Marcos Mateo Tiburcio",
       "contributor": null,
       "id": "02_areas_aprendizaje_azure_aprendizaje_azure",
-      "community": 1,
+      "community": 0,
       "norm_label": "aprendizaje azure"
     },
     {
@@ -137,7 +176,7 @@
       "author": "Marcos Mateo Tiburcio",
       "contributor": null,
       "id": "02_areas_carrera_backend_carrera_backend",
-      "community": 0,
+      "community": 4,
       "norm_label": "carrera backend"
     },
     {
@@ -150,7 +189,7 @@
       "author": "Marcos Mateo Tiburcio",
       "contributor": null,
       "id": "02_areas_marca_personal_y_contenido_marca_personal_y_contenido",
-      "community": 0,
+      "community": 1,
       "norm_label": "marca personal y contenido"
     },
     {
@@ -163,7 +202,7 @@
       "author": "Marcos Mateo Tiburcio",
       "contributor": null,
       "id": "02_areas_onesvie_onesvie",
-      "community": 1,
+      "community": 0,
       "norm_label": "onesvie"
     },
     {
@@ -176,7 +215,7 @@
       "author": "Marcos Mateo Tiburcio",
       "contributor": null,
       "id": "03_recursos_asp_net_core_asp_net_core",
-      "community": 1,
+      "community": 0,
       "norm_label": "asp.net core"
     },
     {
@@ -189,7 +228,7 @@
       "author": "Marcos Mateo Tiburcio",
       "contributor": null,
       "id": "03_recursos_astro_astro",
-      "community": 0,
+      "community": 4,
       "norm_label": "astro"
     },
     {
@@ -202,7 +241,7 @@
       "author": "Marcos Mateo Tiburcio",
       "contributor": null,
       "id": "03_recursos_azure_azure",
-      "community": 1,
+      "community": 0,
       "norm_label": "azure"
     },
     {
@@ -215,8 +254,21 @@
       "author": "Marcos Mateo Tiburcio",
       "contributor": null,
       "id": "03_recursos_metodo_para_metodo_para",
-      "community": 0,
+      "community": 3,
       "norm_label": "metodo para"
+    },
+    {
+      "label": "Perfil GitHub",
+      "file_type": "document",
+      "source_file": "03 Recursos/Perfil GitHub.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Marcos Mateo Tiburcio",
+      "contributor": null,
+      "id": "03_recursos_perfil_github_perfil_github",
+      "community": 1,
+      "norm_label": "perfil github"
     },
     {
       "label": "PostgreSQL",
@@ -241,7 +293,7 @@
       "author": "Marcos Mateo Tiburcio",
       "contributor": null,
       "id": "03_recursos_power_platform_power_platform",
-      "community": 1,
+      "community": 0,
       "norm_label": "power platform"
     },
     {
@@ -267,7 +319,7 @@
       "author": "Marcos Mateo Tiburcio",
       "contributor": null,
       "id": "03_recursos_sql_server_sql_server",
-      "community": 1,
+      "community": 0,
       "norm_label": "sql server"
     },
     {
@@ -280,7 +332,7 @@
       "author": "Marcos Mateo Tiburcio",
       "contributor": null,
       "id": "03_recursos_segundo_cerebro_segundo_cerebro",
-      "community": 0,
+      "community": 3,
       "norm_label": "segundo cerebro"
     },
     {
@@ -293,7 +345,7 @@
       "author": "Marcos Mateo Tiburcio",
       "contributor": null,
       "id": "03_recursos_stack_tecnico_stack_tecnico",
-      "community": 2,
+      "community": 0,
       "norm_label": "stack tecnico"
     },
     {
@@ -323,6 +375,19 @@
       "norm_label": "no country"
     },
     {
+      "label": "Proyectos de Aprendizaje GitHub",
+      "file_type": "document",
+      "source_file": "04 Archivo/Proyectos de Aprendizaje GitHub.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Marcos Mateo Tiburcio",
+      "contributor": null,
+      "id": "04_archivo_proyectos_de_aprendizaje_github_proyectos_de_aprendizaje_github",
+      "community": 2,
+      "norm_label": "proyectos de aprendizaje github"
+    },
+    {
       "label": "Plantilla de Nota Diaria",
       "file_type": "document",
       "source_file": "05 Plantillas/Plantilla de Nota Diaria.md",
@@ -332,7 +397,7 @@
       "author": "Marcos Mateo Tiburcio",
       "contributor": null,
       "id": "05_plantillas_plantilla_de_nota_diaria_plantilla_de_nota_diaria",
-      "community": 0,
+      "community": 3,
       "norm_label": "plantilla de nota diaria"
     },
     {
@@ -345,7 +410,7 @@
       "author": "Marcos Mateo Tiburcio",
       "contributor": null,
       "id": "05_plantillas_plantilla_de_proyecto_plantilla_de_proyecto",
-      "community": 0,
+      "community": 1,
       "norm_label": "plantilla de proyecto"
     },
     {
@@ -358,7 +423,7 @@
       "author": "Marcos Mateo Tiburcio",
       "contributor": null,
       "id": "home_home",
-      "community": 0,
+      "community": 1,
       "norm_label": "home"
     }
   ],
@@ -457,6 +522,16 @@
       "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
+      "source_file": "01 Proyectos/ZaunService.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "01_proyectos_zaunservice_zaunservice",
+      "target": "01_proyectos_api_gateway_api_gateway"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
       "source_file": "02 Areas/Aprendizaje Azure.md",
       "source_location": null,
       "weight": 1.0,
@@ -542,6 +617,46 @@
       "weight": 1.0,
       "source": "home_home",
       "target": "01_proyectos_automatizacion_power_platform_automatizacion_power_platform"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "01 Proyectos/Hockjay OS.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "01_proyectos_hockjay_os_hockjay_os",
+      "target": "02_areas_marca_personal_y_contenido_marca_personal_y_contenido"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "01 Proyectos/Hockjay OS.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "01_proyectos_hockjay_os_hockjay_os",
+      "target": "03_recursos_perfil_github_perfil_github"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "01 Proyectos/Hockjay OS.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "01_proyectos_hockjay_os_hockjay_os",
+      "target": "03_recursos_workstation_workstation"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Home.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "home_home",
+      "target": "01_proyectos_hockjay_os_hockjay_os"
     },
     {
       "relation": "references",
@@ -637,11 +752,81 @@
       "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
+      "source_file": "03 Recursos/Perfil GitHub.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "03_recursos_perfil_github_perfil_github",
+      "target": "01_proyectos_portafolio_web_portafolio_web"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
       "source_file": "Home.md",
       "source_location": null,
       "weight": 1.0,
       "source": "home_home",
       "target": "01_proyectos_portafolio_web_portafolio_web"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "01 Proyectos/Sys-PLA.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "01_proyectos_sys_pla_sys_pla",
+      "target": "02_areas_carrera_backend_carrera_backend"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "01 Proyectos/Sys-PLA.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "01_proyectos_sys_pla_sys_pla",
+      "target": "03_recursos_perfil_github_perfil_github"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Home.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "home_home",
+      "target": "01_proyectos_sys_pla_sys_pla"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "01 Proyectos/ZaunService.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "01_proyectos_zaunservice_zaunservice",
+      "target": "03_recursos_asp_net_core_asp_net_core"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "01 Proyectos/ZaunService.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "01_proyectos_zaunservice_zaunservice",
+      "target": "03_recursos_perfil_github_perfil_github"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Home.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "home_home",
+      "target": "01_proyectos_zaunservice_zaunservice"
     },
     {
       "relation": "references",
@@ -821,6 +1006,16 @@
       "source_location": null,
       "weight": 1.0,
       "source": "02_areas_marca_personal_y_contenido_marca_personal_y_contenido",
+      "target": "03_recursos_perfil_github_perfil_github"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "02 Areas/Marca Personal y Contenido.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "02_areas_marca_personal_y_contenido_marca_personal_y_contenido",
       "target": "03_recursos_power_platform_power_platform"
     },
     {
@@ -871,6 +1066,16 @@
       "source_location": null,
       "weight": 1.0,
       "source": "02_areas_onesvie_onesvie",
+      "target": "03_recursos_perfil_github_perfil_github"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "02 Areas/ONESVIE.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "02_areas_onesvie_onesvie",
       "target": "03_recursos_power_platform_power_platform"
     },
     {
@@ -911,6 +1116,16 @@
       "source_location": null,
       "weight": 1.0,
       "source": "04_archivo_no_country_no_country",
+      "target": "02_areas_onesvie_onesvie"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "04 Archivo/Proyectos de Aprendizaje GitHub.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "04_archivo_proyectos_de_aprendizaje_github_proyectos_de_aprendizaje_github",
       "target": "02_areas_onesvie_onesvie"
     },
     {
@@ -1057,6 +1272,26 @@
       "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
+      "source_file": "03 Recursos/Perfil GitHub.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "03_recursos_perfil_github_perfil_github",
+      "target": "04_archivo_proyectos_de_aprendizaje_github_proyectos_de_aprendizaje_github"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Home.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "home_home",
+      "target": "03_recursos_perfil_github_perfil_github"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
       "source_file": "03 Recursos/PostgreSQL.md",
       "source_location": null,
       "weight": 1.0,
@@ -1127,6 +1362,16 @@
       "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
+      "source_file": "03 Recursos/Python.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "03_recursos_python_python",
+      "target": "04_archivo_proyectos_de_aprendizaje_github_proyectos_de_aprendizaje_github"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
       "source_file": "03 Recursos/Stack T\u00e9cnico.md",
       "source_location": null,
       "weight": 1.0,
@@ -1187,11 +1432,31 @@
       "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
+      "source_file": "04 Archivo/Proyectos de Aprendizaje GitHub.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "04_archivo_proyectos_de_aprendizaje_github_proyectos_de_aprendizaje_github",
+      "target": "04_archivo_no_country_no_country"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
       "source_file": "Home.md",
       "source_location": null,
       "weight": 1.0,
       "source": "home_home",
       "target": "04_archivo_no_country_no_country"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Home.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "home_home",
+      "target": "04_archivo_proyectos_de_aprendizaje_github_proyectos_de_aprendizaje_github"
     },
     {
       "relation": "references",
@@ -1248,5 +1513,6 @@
       "confidence_score": 0.95,
       "source_file": "03 Recursos/Segundo Cerebro.md"
     }
-  ]
+  ],
+  "built_at_commit": "58cae304fba2f9f549bddecfdcb7f256144882b9"
 }

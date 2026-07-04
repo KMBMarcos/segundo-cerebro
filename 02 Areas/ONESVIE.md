@@ -18,6 +18,7 @@ Desarrollo y mantenimiento de sistemas backend con el stack de tecnología Micro
 - APIs RESTful consumidas por dashboards internos ([[API Gateway]])
 - Workflows automatizados con Power Automate ([[Automatización Power Platform]])
 - Optimización de bases de datos SQL Server para operaciones críticas
+- Contribución al Portal de Capacitación (`onesvie-subdominio-reed` en [[Perfil GitHub]])
 
 ## Relacionado
 - [[Carrera Backend]]

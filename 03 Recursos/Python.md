@@ -18,3 +18,4 @@ FastAPI · Django · Pandas · SQLAlchemy · pytest
 ## Conexiones
 - Con [[PostgreSQL]] vía SQLAlchemy
 - Alternativa a [[ASP.NET Core]] para servicios ligeros
+- Historia formativa completa en [[Proyectos de Aprendizaje GitHub]] (FastAPI, Django y Flask probados ahí)
