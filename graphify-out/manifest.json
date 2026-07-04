@@ -1,0 +1,122 @@
+{
+  "00 Inbox/C\u00f3mo usar la bandeja.md": {
+    "mtime": 1783141525.25604,
+    "ast_hash": "d2655b25ad4171986d758fbadb8a46f6",
+    "semantic_hash": "d2655b25ad4171986d758fbadb8a46f6"
+  },
+  "01 Proyectos/API Gateway.md": {
+    "mtime": 1783141534.0473552,
+    "ast_hash": "3639d275802a9aac136e47f5967a67c8",
+    "semantic_hash": "3639d275802a9aac136e47f5967a67c8"
+  },
+  "01 Proyectos/Automatizaci\u00f3n Power Platform.md": {
+    "mtime": 1783141546.3174236,
+    "ast_hash": "82a8ab053e856af02966f89acb8e5b7b",
+    "semantic_hash": "82a8ab053e856af02966f89acb8e5b7b"
+  },
+  "01 Proyectos/Pipeline de Datos ETL.md": {
+    "mtime": 1783141543.0203075,
+    "ast_hash": "794976a947c97fe30ce15aef2061c2e3",
+    "semantic_hash": "794976a947c97fe30ce15aef2061c2e3"
+  },
+  "01 Proyectos/Portafolio Web.md": {
+    "mtime": 1783141530.8868794,
+    "ast_hash": "4e549925ba18bf4845748b2041beefad",
+    "semantic_hash": "4e549925ba18bf4845748b2041beefad"
+  },
+  "02 Areas/Aprendizaje Azure.md": {
+    "mtime": 1783141565.4054806,
+    "ast_hash": "96b3bda64f9860aa57986fff6be8b7ef",
+    "semantic_hash": "96b3bda64f9860aa57986fff6be8b7ef"
+  },
+  "02 Areas/Carrera Backend.md": {
+    "mtime": 1783141551.9894638,
+    "ast_hash": "dc968c9779753fb75899b26de9a1c221",
+    "semantic_hash": "dc968c9779753fb75899b26de9a1c221"
+  },
+  "02 Areas/Marca Personal y Contenido.md": {
+    "mtime": 1783141570.541332,
+    "ast_hash": "d0ac7fd173faa279c4dd81be63d41742",
+    "semantic_hash": "d0ac7fd173faa279c4dd81be63d41742"
+  },
+  "02 Areas/ONESVIE.md": {
+    "mtime": 1783141555.702949,
+    "ast_hash": "b53ae118b9c95792a98a2272e6eb2378",
+    "semantic_hash": "b53ae118b9c95792a98a2272e6eb2378"
+  },
+  "03 Recursos/ASP.NET Core.md": {
+    "mtime": 1783141598.7023523,
+    "ast_hash": "14374d475b0df49eee039e9b538561a7",
+    "semantic_hash": "14374d475b0df49eee039e9b538561a7"
+  },
+  "03 Recursos/Astro.md": {
+    "mtime": 1783141618.8508453,
+    "ast_hash": "b188b2424b7b7879eb06b1e72fc91fea",
+    "semantic_hash": "b188b2424b7b7879eb06b1e72fc91fea"
+  },
+  "03 Recursos/Azure.md": {
+    "mtime": 1783141611.2272706,
+    "ast_hash": "807c84c7829e547b97e66efa39d794db",
+    "semantic_hash": "807c84c7829e547b97e66efa39d794db"
+  },
+  "03 Recursos/M\u00e9todo PARA.md": {
+    "mtime": 1783141583.3031254,
+    "ast_hash": "9d87f86d302c533532294a0026a4fe76",
+    "semantic_hash": "9d87f86d302c533532294a0026a4fe76"
+  },
+  "03 Recursos/PostgreSQL.md": {
+    "mtime": 1783141607.439231,
+    "ast_hash": "6c3a795645cb69a6b555be034986688f",
+    "semantic_hash": "6c3a795645cb69a6b555be034986688f"
+  },
+  "03 Recursos/Power Platform.md": {
+    "mtime": 1783141615.5024765,
+    "ast_hash": "d8935914aef9e1a51ffebfbf71369dad",
+    "semantic_hash": "d8935914aef9e1a51ffebfbf71369dad"
+  },
+  "03 Recursos/Python.md": {
+    "mtime": 1783141595.8685308,
+    "ast_hash": "33009cd905c17a46593e2b51fc6a985f",
+    "semantic_hash": "33009cd905c17a46593e2b51fc6a985f"
+  },
+  "03 Recursos/SQL Server.md": {
+    "mtime": 1783141601.50568,
+    "ast_hash": "713e43cb6115c9b8114b8b61df96a6d2",
+    "semantic_hash": "713e43cb6115c9b8114b8b61df96a6d2"
+  },
+  "03 Recursos/Segundo Cerebro.md": {
+    "mtime": 1783141580.373385,
+    "ast_hash": "a092273245aef65f304dfc8f6d6c4d78",
+    "semantic_hash": "a092273245aef65f304dfc8f6d6c4d78"
+  },
+  "03 Recursos/Stack T\u00e9cnico.md": {
+    "mtime": 1783141592.059196,
+    "ast_hash": "229f59fd52126f3f6ab2e2b7a6064f9d",
+    "semantic_hash": "229f59fd52126f3f6ab2e2b7a6064f9d"
+  },
+  "03 Recursos/Workstation.md": {
+    "mtime": 1783141626.7199314,
+    "ast_hash": "ee419178e9ba6089bfbbbb507cf8e5b7",
+    "semantic_hash": "ee419178e9ba6089bfbbbb507cf8e5b7"
+  },
+  "04 Archivo/No Country.md": {
+    "mtime": 1783141630.9129426,
+    "ast_hash": "7203d613ab328737bd4e20a4a1144489",
+    "semantic_hash": "7203d613ab328737bd4e20a4a1144489"
+  },
+  "05 Plantillas/Plantilla de Nota Diaria.md": {
+    "mtime": 1783141635.3507273,
+    "ast_hash": "421cc4406a81ce3434b1678e49ef216e",
+    "semantic_hash": "421cc4406a81ce3434b1678e49ef216e"
+  },
+  "05 Plantillas/Plantilla de Proyecto.md": {
+    "mtime": 1783141633.8269987,
+    "ast_hash": "f330b12e42c26600e634d7e6b6aa243a",
+    "semantic_hash": "f330b12e42c26600e634d7e6b6aa243a"
+  },
+  "Home.md": {
+    "mtime": 1783141520.5661812,
+    "ast_hash": "c48e89a18f4b8ebaf0398fba45b1cb00",
+    "semantic_hash": "c48e89a18f4b8ebaf0398fba45b1cb00"
+  }
+}

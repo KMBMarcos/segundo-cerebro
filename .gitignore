@@ -1,0 +1,13 @@
+# Estado local de Obsidian (específico de esta máquina)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Archivos internos temporales de graphify (rutas absolutas de esta máquina)
+graphify-out/.graphify_python
+graphify-out/.graphify_root
+graphify-out/.graphify_*.json
+
+# Sistema
+.DS_Store
+Thumbs.db

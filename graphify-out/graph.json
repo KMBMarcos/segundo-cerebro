@@ -1,0 +1,1252 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {
+    "hyperedges": [
+      {
+        "id": "ecosistema_microsoft",
+        "label": "Ecosistema Microsoft",
+        "nodes": [
+          "03_recursos_asp_net_core_asp_net_core",
+          "03_recursos_sql_server_sql_server",
+          "03_recursos_azure_azure",
+          "03_recursos_power_platform_power_platform",
+          "02_areas_onesvie_onesvie",
+          "01_proyectos_api_gateway_api_gateway"
+        ],
+        "relation": "participate_in",
+        "confidence": "INFERRED",
+        "confidence_score": 0.85,
+        "source_file": "02 Areas/ONESVIE.md"
+      },
+      {
+        "id": "stack_python_opensource",
+        "label": "Stack Python open-source",
+        "nodes": [
+          "03_recursos_python_python",
+          "03_recursos_postgresql_postgresql",
+          "01_proyectos_pipeline_de_datos_etl_pipeline_de_datos_etl",
+          "04_archivo_no_country_no_country"
+        ],
+        "relation": "participate_in",
+        "confidence": "INFERRED",
+        "confidence_score": 0.85,
+        "source_file": "03 Recursos/Python.md"
+      },
+      {
+        "id": "flujo_code_para",
+        "label": "Flujo CODE + PARA",
+        "nodes": [
+          "03_recursos_segundo_cerebro_segundo_cerebro",
+          "03_recursos_metodo_para_metodo_para",
+          "00_inbox_como_usar_la_bandeja_como_usar_la_bandeja"
+        ],
+        "relation": "form",
+        "confidence": "INFERRED",
+        "confidence_score": 0.95,
+        "source_file": "03 Recursos/Segundo Cerebro.md"
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "label": "C\u00f3mo usar la bandeja",
+      "file_type": "document",
+      "source_file": "00 Inbox/C\u00f3mo usar la bandeja.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Marcos Mateo Tiburcio",
+      "contributor": null,
+      "id": "00_inbox_como_usar_la_bandeja_como_usar_la_bandeja",
+      "community": 0,
+      "norm_label": "como usar la bandeja"
+    },
+    {
+      "label": "API Gateway",
+      "file_type": "document",
+      "source_file": "01 Proyectos/API Gateway.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Marcos Mateo Tiburcio",
+      "contributor": null,
+      "id": "01_proyectos_api_gateway_api_gateway",
+      "community": 1,
+      "norm_label": "api gateway"
+    },
+    {
+      "label": "Automatizaci\u00f3n Power Platform",
+      "file_type": "document",
+      "source_file": "01 Proyectos/Automatizaci\u00f3n Power Platform.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Marcos Mateo Tiburcio",
+      "contributor": null,
+      "id": "01_proyectos_automatizacion_power_platform_automatizacion_power_platform",
+      "community": 1,
+      "norm_label": "automatizacion power platform"
+    },
+    {
+      "label": "Pipeline de Datos ETL",
+      "file_type": "document",
+      "source_file": "01 Proyectos/Pipeline de Datos ETL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Marcos Mateo Tiburcio",
+      "contributor": null,
+      "id": "01_proyectos_pipeline_de_datos_etl_pipeline_de_datos_etl",
+      "community": 2,
+      "norm_label": "pipeline de datos etl"
+    },
+    {
+      "label": "Portafolio Web",
+      "file_type": "document",
+      "source_file": "01 Proyectos/Portafolio Web.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Marcos Mateo Tiburcio",
+      "contributor": null,
+      "id": "01_proyectos_portafolio_web_portafolio_web",
+      "community": 0,
+      "norm_label": "portafolio web"
+    },
+    {
+      "label": "Aprendizaje Azure",
+      "file_type": "document",
+      "source_file": "02 Areas/Aprendizaje Azure.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Marcos Mateo Tiburcio",
+      "contributor": null,
+      "id": "02_areas_aprendizaje_azure_aprendizaje_azure",
+      "community": 1,
+      "norm_label": "aprendizaje azure"
+    },
+    {
+      "label": "Carrera Backend",
+      "file_type": "document",
+      "source_file": "02 Areas/Carrera Backend.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Marcos Mateo Tiburcio",
+      "contributor": null,
+      "id": "02_areas_carrera_backend_carrera_backend",
+      "community": 0,
+      "norm_label": "carrera backend"
+    },
+    {
+      "label": "Marca Personal y Contenido",
+      "file_type": "document",
+      "source_file": "02 Areas/Marca Personal y Contenido.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Marcos Mateo Tiburcio",
+      "contributor": null,
+      "id": "02_areas_marca_personal_y_contenido_marca_personal_y_contenido",
+      "community": 0,
+      "norm_label": "marca personal y contenido"
+    },
+    {
+      "label": "ONESVIE",
+      "file_type": "document",
+      "source_file": "02 Areas/ONESVIE.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Marcos Mateo Tiburcio",
+      "contributor": null,
+      "id": "02_areas_onesvie_onesvie",
+      "community": 1,
+      "norm_label": "onesvie"
+    },
+    {
+      "label": "ASP.NET Core",
+      "file_type": "document",
+      "source_file": "03 Recursos/ASP.NET Core.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Marcos Mateo Tiburcio",
+      "contributor": null,
+      "id": "03_recursos_asp_net_core_asp_net_core",
+      "community": 1,
+      "norm_label": "asp.net core"
+    },
+    {
+      "label": "Astro",
+      "file_type": "document",
+      "source_file": "03 Recursos/Astro.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Marcos Mateo Tiburcio",
+      "contributor": null,
+      "id": "03_recursos_astro_astro",
+      "community": 0,
+      "norm_label": "astro"
+    },
+    {
+      "label": "Azure",
+      "file_type": "document",
+      "source_file": "03 Recursos/Azure.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Marcos Mateo Tiburcio",
+      "contributor": null,
+      "id": "03_recursos_azure_azure",
+      "community": 1,
+      "norm_label": "azure"
+    },
+    {
+      "label": "M\u00e9todo PARA",
+      "file_type": "document",
+      "source_file": "03 Recursos/M\u00e9todo PARA.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Marcos Mateo Tiburcio",
+      "contributor": null,
+      "id": "03_recursos_metodo_para_metodo_para",
+      "community": 0,
+      "norm_label": "metodo para"
+    },
+    {
+      "label": "PostgreSQL",
+      "file_type": "document",
+      "source_file": "03 Recursos/PostgreSQL.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Marcos Mateo Tiburcio",
+      "contributor": null,
+      "id": "03_recursos_postgresql_postgresql",
+      "community": 2,
+      "norm_label": "postgresql"
+    },
+    {
+      "label": "Power Platform",
+      "file_type": "document",
+      "source_file": "03 Recursos/Power Platform.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Marcos Mateo Tiburcio",
+      "contributor": null,
+      "id": "03_recursos_power_platform_power_platform",
+      "community": 1,
+      "norm_label": "power platform"
+    },
+    {
+      "label": "Python",
+      "file_type": "document",
+      "source_file": "03 Recursos/Python.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Marcos Mateo Tiburcio",
+      "contributor": null,
+      "id": "03_recursos_python_python",
+      "community": 2,
+      "norm_label": "python"
+    },
+    {
+      "label": "SQL Server",
+      "file_type": "document",
+      "source_file": "03 Recursos/SQL Server.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Marcos Mateo Tiburcio",
+      "contributor": null,
+      "id": "03_recursos_sql_server_sql_server",
+      "community": 1,
+      "norm_label": "sql server"
+    },
+    {
+      "label": "Segundo Cerebro",
+      "file_type": "document",
+      "source_file": "03 Recursos/Segundo Cerebro.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Marcos Mateo Tiburcio",
+      "contributor": null,
+      "id": "03_recursos_segundo_cerebro_segundo_cerebro",
+      "community": 0,
+      "norm_label": "segundo cerebro"
+    },
+    {
+      "label": "Stack T\u00e9cnico",
+      "file_type": "document",
+      "source_file": "03 Recursos/Stack T\u00e9cnico.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Marcos Mateo Tiburcio",
+      "contributor": null,
+      "id": "03_recursos_stack_tecnico_stack_tecnico",
+      "community": 2,
+      "norm_label": "stack tecnico"
+    },
+    {
+      "label": "Workstation",
+      "file_type": "document",
+      "source_file": "03 Recursos/Workstation.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Marcos Mateo Tiburcio",
+      "contributor": null,
+      "id": "03_recursos_workstation_workstation",
+      "community": 1,
+      "norm_label": "workstation"
+    },
+    {
+      "label": "No Country",
+      "file_type": "document",
+      "source_file": "04 Archivo/No Country.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Marcos Mateo Tiburcio",
+      "contributor": null,
+      "id": "04_archivo_no_country_no_country",
+      "community": 2,
+      "norm_label": "no country"
+    },
+    {
+      "label": "Plantilla de Nota Diaria",
+      "file_type": "document",
+      "source_file": "05 Plantillas/Plantilla de Nota Diaria.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Marcos Mateo Tiburcio",
+      "contributor": null,
+      "id": "05_plantillas_plantilla_de_nota_diaria_plantilla_de_nota_diaria",
+      "community": 0,
+      "norm_label": "plantilla de nota diaria"
+    },
+    {
+      "label": "Plantilla de Proyecto",
+      "file_type": "document",
+      "source_file": "05 Plantillas/Plantilla de Proyecto.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Marcos Mateo Tiburcio",
+      "contributor": null,
+      "id": "05_plantillas_plantilla_de_proyecto_plantilla_de_proyecto",
+      "community": 0,
+      "norm_label": "plantilla de proyecto"
+    },
+    {
+      "label": "Home",
+      "file_type": "document",
+      "source_file": "Home.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Marcos Mateo Tiburcio",
+      "contributor": null,
+      "id": "home_home",
+      "community": 0,
+      "norm_label": "home"
+    }
+  ],
+  "links": [
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "00 Inbox/C\u00f3mo usar la bandeja.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "00_inbox_como_usar_la_bandeja_como_usar_la_bandeja",
+      "target": "03_recursos_metodo_para_metodo_para"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "00 Inbox/C\u00f3mo usar la bandeja.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "00_inbox_como_usar_la_bandeja_como_usar_la_bandeja",
+      "target": "03_recursos_segundo_cerebro_segundo_cerebro"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "00 Inbox/C\u00f3mo usar la bandeja.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "00_inbox_como_usar_la_bandeja_como_usar_la_bandeja",
+      "target": "05_plantillas_plantilla_de_nota_diaria_plantilla_de_nota_diaria"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Home.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "home_home",
+      "target": "00_inbox_como_usar_la_bandeja_como_usar_la_bandeja"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "01 Proyectos/API Gateway.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "01_proyectos_api_gateway_api_gateway",
+      "target": "01_proyectos_automatizacion_power_platform_automatizacion_power_platform"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "01 Proyectos/API Gateway.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "01_proyectos_api_gateway_api_gateway",
+      "target": "02_areas_onesvie_onesvie"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "01 Proyectos/API Gateway.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "01_proyectos_api_gateway_api_gateway",
+      "target": "03_recursos_asp_net_core_asp_net_core"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "01 Proyectos/API Gateway.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "01_proyectos_api_gateway_api_gateway",
+      "target": "03_recursos_azure_azure"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "01 Proyectos/API Gateway.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "01_proyectos_api_gateway_api_gateway",
+      "target": "03_recursos_sql_server_sql_server"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "02 Areas/Aprendizaje Azure.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "02_areas_aprendizaje_azure_aprendizaje_azure",
+      "target": "01_proyectos_api_gateway_api_gateway"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03 Recursos/M\u00e9todo PARA.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "03_recursos_metodo_para_metodo_para",
+      "target": "01_proyectos_api_gateway_api_gateway"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Home.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "home_home",
+      "target": "01_proyectos_api_gateway_api_gateway"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "01 Proyectos/Automatizaci\u00f3n Power Platform.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "01_proyectos_automatizacion_power_platform_automatizacion_power_platform",
+      "target": "02_areas_onesvie_onesvie"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "01 Proyectos/Automatizaci\u00f3n Power Platform.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "01_proyectos_automatizacion_power_platform_automatizacion_power_platform",
+      "target": "03_recursos_azure_azure"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "01 Proyectos/Automatizaci\u00f3n Power Platform.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "01_proyectos_automatizacion_power_platform_automatizacion_power_platform",
+      "target": "03_recursos_power_platform_power_platform"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "01 Proyectos/Automatizaci\u00f3n Power Platform.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "01_proyectos_automatizacion_power_platform_automatizacion_power_platform",
+      "target": "03_recursos_sql_server_sql_server"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "01 Proyectos/Pipeline de Datos ETL.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "01_proyectos_pipeline_de_datos_etl_pipeline_de_datos_etl",
+      "target": "01_proyectos_automatizacion_power_platform_automatizacion_power_platform"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Home.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "home_home",
+      "target": "01_proyectos_automatizacion_power_platform_automatizacion_power_platform"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "01 Proyectos/Pipeline de Datos ETL.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "01_proyectos_pipeline_de_datos_etl_pipeline_de_datos_etl",
+      "target": "02_areas_carrera_backend_carrera_backend"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "01 Proyectos/Pipeline de Datos ETL.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "01_proyectos_pipeline_de_datos_etl_pipeline_de_datos_etl",
+      "target": "03_recursos_postgresql_postgresql"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "01 Proyectos/Pipeline de Datos ETL.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "01_proyectos_pipeline_de_datos_etl_pipeline_de_datos_etl",
+      "target": "03_recursos_python_python"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Home.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "home_home",
+      "target": "01_proyectos_pipeline_de_datos_etl_pipeline_de_datos_etl"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "01 Proyectos/Portafolio Web.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "01_proyectos_portafolio_web_portafolio_web",
+      "target": "02_areas_carrera_backend_carrera_backend"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "01 Proyectos/Portafolio Web.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "01_proyectos_portafolio_web_portafolio_web",
+      "target": "02_areas_marca_personal_y_contenido_marca_personal_y_contenido"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "01 Proyectos/Portafolio Web.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "01_proyectos_portafolio_web_portafolio_web",
+      "target": "03_recursos_astro_astro"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "01 Proyectos/Portafolio Web.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "01_proyectos_portafolio_web_portafolio_web",
+      "target": "03_recursos_stack_tecnico_stack_tecnico"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03 Recursos/M\u00e9todo PARA.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "03_recursos_metodo_para_metodo_para",
+      "target": "01_proyectos_portafolio_web_portafolio_web"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Home.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "home_home",
+      "target": "01_proyectos_portafolio_web_portafolio_web"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "02 Areas/Aprendizaje Azure.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "02_areas_aprendizaje_azure_aprendizaje_azure",
+      "target": "02_areas_carrera_backend_carrera_backend"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "02 Areas/Aprendizaje Azure.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "02_areas_aprendizaje_azure_aprendizaje_azure",
+      "target": "02_areas_onesvie_onesvie"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "02 Areas/Aprendizaje Azure.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "02_areas_aprendizaje_azure_aprendizaje_azure",
+      "target": "03_recursos_azure_azure"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "02 Areas/Aprendizaje Azure.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "02_areas_aprendizaje_azure_aprendizaje_azure",
+      "target": "03_recursos_stack_tecnico_stack_tecnico"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Home.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "home_home",
+      "target": "02_areas_aprendizaje_azure_aprendizaje_azure"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "02 Areas/Carrera Backend.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "02_areas_carrera_backend_carrera_backend",
+      "target": "02_areas_marca_personal_y_contenido_marca_personal_y_contenido"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "02 Areas/Carrera Backend.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "02_areas_carrera_backend_carrera_backend",
+      "target": "02_areas_onesvie_onesvie"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "02 Areas/Carrera Backend.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "02_areas_carrera_backend_carrera_backend",
+      "target": "03_recursos_asp_net_core_asp_net_core"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "02 Areas/Carrera Backend.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "02_areas_carrera_backend_carrera_backend",
+      "target": "03_recursos_azure_azure"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "02 Areas/Carrera Backend.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "02_areas_carrera_backend_carrera_backend",
+      "target": "03_recursos_power_platform_power_platform"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "02 Areas/Carrera Backend.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "02_areas_carrera_backend_carrera_backend",
+      "target": "03_recursos_python_python"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "02 Areas/Carrera Backend.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "02_areas_carrera_backend_carrera_backend",
+      "target": "03_recursos_sql_server_sql_server"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "02 Areas/Carrera Backend.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "02_areas_carrera_backend_carrera_backend",
+      "target": "03_recursos_stack_tecnico_stack_tecnico"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "02 Areas/Carrera Backend.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "02_areas_carrera_backend_carrera_backend",
+      "target": "04_archivo_no_country_no_country"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03 Recursos/Astro.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "03_recursos_astro_astro",
+      "target": "02_areas_carrera_backend_carrera_backend"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03 Recursos/M\u00e9todo PARA.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "03_recursos_metodo_para_metodo_para",
+      "target": "02_areas_carrera_backend_carrera_backend"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Home.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "home_home",
+      "target": "02_areas_carrera_backend_carrera_backend"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "02 Areas/Marca Personal y Contenido.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "02_areas_marca_personal_y_contenido_marca_personal_y_contenido",
+      "target": "03_recursos_power_platform_power_platform"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "02 Areas/Marca Personal y Contenido.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "02_areas_marca_personal_y_contenido_marca_personal_y_contenido",
+      "target": "03_recursos_segundo_cerebro_segundo_cerebro"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "02 Areas/Marca Personal y Contenido.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "02_areas_marca_personal_y_contenido_marca_personal_y_contenido",
+      "target": "03_recursos_workstation_workstation"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Home.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "home_home",
+      "target": "02_areas_marca_personal_y_contenido_marca_personal_y_contenido"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "02 Areas/ONESVIE.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "02_areas_onesvie_onesvie",
+      "target": "03_recursos_asp_net_core_asp_net_core"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "02 Areas/ONESVIE.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "02_areas_onesvie_onesvie",
+      "target": "03_recursos_power_platform_power_platform"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "02 Areas/ONESVIE.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "02_areas_onesvie_onesvie",
+      "target": "03_recursos_sql_server_sql_server"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03 Recursos/Azure.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "03_recursos_azure_azure",
+      "target": "02_areas_onesvie_onesvie"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03 Recursos/M\u00e9todo PARA.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "03_recursos_metodo_para_metodo_para",
+      "target": "02_areas_onesvie_onesvie"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "04 Archivo/No Country.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "04_archivo_no_country_no_country",
+      "target": "02_areas_onesvie_onesvie"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Home.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "home_home",
+      "target": "02_areas_onesvie_onesvie"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03 Recursos/ASP.NET Core.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "03_recursos_asp_net_core_asp_net_core",
+      "target": "03_recursos_azure_azure"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03 Recursos/ASP.NET Core.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "03_recursos_asp_net_core_asp_net_core",
+      "target": "03_recursos_python_python"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03 Recursos/ASP.NET Core.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "03_recursos_asp_net_core_asp_net_core",
+      "target": "03_recursos_sql_server_sql_server"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03 Recursos/Power Platform.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "03_recursos_power_platform_power_platform",
+      "target": "03_recursos_asp_net_core_asp_net_core"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03 Recursos/Stack T\u00e9cnico.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "03_recursos_stack_tecnico_stack_tecnico",
+      "target": "03_recursos_asp_net_core_asp_net_core"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03 Recursos/Workstation.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "03_recursos_workstation_workstation",
+      "target": "03_recursos_asp_net_core_asp_net_core"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03 Recursos/Azure.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "03_recursos_azure_azure",
+      "target": "03_recursos_power_platform_power_platform"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03 Recursos/Stack T\u00e9cnico.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "03_recursos_stack_tecnico_stack_tecnico",
+      "target": "03_recursos_azure_azure"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03 Recursos/Workstation.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "03_recursos_workstation_workstation",
+      "target": "03_recursos_azure_azure"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03 Recursos/M\u00e9todo PARA.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "03_recursos_metodo_para_metodo_para",
+      "target": "03_recursos_segundo_cerebro_segundo_cerebro"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03 Recursos/M\u00e9todo PARA.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "03_recursos_metodo_para_metodo_para",
+      "target": "03_recursos_stack_tecnico_stack_tecnico"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03 Recursos/M\u00e9todo PARA.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "03_recursos_metodo_para_metodo_para",
+      "target": "04_archivo_no_country_no_country"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Home.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "home_home",
+      "target": "03_recursos_metodo_para_metodo_para"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03 Recursos/PostgreSQL.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "03_recursos_postgresql_postgresql",
+      "target": "03_recursos_python_python"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03 Recursos/PostgreSQL.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "03_recursos_postgresql_postgresql",
+      "target": "03_recursos_sql_server_sql_server"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03 Recursos/PostgreSQL.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "03_recursos_postgresql_postgresql",
+      "target": "04_archivo_no_country_no_country"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03 Recursos/Stack T\u00e9cnico.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "03_recursos_stack_tecnico_stack_tecnico",
+      "target": "03_recursos_postgresql_postgresql"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03 Recursos/Power Platform.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "03_recursos_power_platform_power_platform",
+      "target": "03_recursos_sql_server_sql_server"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03 Recursos/Stack T\u00e9cnico.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "03_recursos_stack_tecnico_stack_tecnico",
+      "target": "03_recursos_power_platform_power_platform"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03 Recursos/Python.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "03_recursos_python_python",
+      "target": "04_archivo_no_country_no_country"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03 Recursos/Stack T\u00e9cnico.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "03_recursos_stack_tecnico_stack_tecnico",
+      "target": "03_recursos_python_python"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03 Recursos/Workstation.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "03_recursos_workstation_workstation",
+      "target": "03_recursos_python_python"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "03 Recursos/Stack T\u00e9cnico.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "03_recursos_stack_tecnico_stack_tecnico",
+      "target": "03_recursos_sql_server_sql_server"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Home.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "home_home",
+      "target": "03_recursos_segundo_cerebro_segundo_cerebro"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Home.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "home_home",
+      "target": "03_recursos_stack_tecnico_stack_tecnico"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Home.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "home_home",
+      "target": "03_recursos_workstation_workstation"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Home.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "home_home",
+      "target": "04_archivo_no_country_no_country"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "05 Plantillas/Plantilla de Proyecto.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "05_plantillas_plantilla_de_proyecto_plantilla_de_proyecto",
+      "target": "home_home"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "ecosistema_microsoft",
+      "label": "Ecosistema Microsoft",
+      "nodes": [
+        "03_recursos_asp_net_core_asp_net_core",
+        "03_recursos_sql_server_sql_server",
+        "03_recursos_azure_azure",
+        "03_recursos_power_platform_power_platform",
+        "02_areas_onesvie_onesvie",
+        "01_proyectos_api_gateway_api_gateway"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "02 Areas/ONESVIE.md"
+    },
+    {
+      "id": "stack_python_opensource",
+      "label": "Stack Python open-source",
+      "nodes": [
+        "03_recursos_python_python",
+        "03_recursos_postgresql_postgresql",
+        "01_proyectos_pipeline_de_datos_etl_pipeline_de_datos_etl",
+        "04_archivo_no_country_no_country"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "03 Recursos/Python.md"
+    },
+    {
+      "id": "flujo_code_para",
+      "label": "Flujo CODE + PARA",
+      "nodes": [
+        "03_recursos_segundo_cerebro_segundo_cerebro",
+        "03_recursos_metodo_para_metodo_para",
+        "00_inbox_como_usar_la_bandeja_como_usar_la_bandeja"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "03 Recursos/Segundo Cerebro.md"
+    }
+  ]
+}
