@@ -1,7 +1,6 @@
 ---
 tags: [moc, dashboard]
 ---
-
 # 🧠 Segundo Cerebro — Marcos Mateo Tiburcio
 
 Bienvenido a tu segundo cerebro. Organizado con el [[Método PARA]] y la metodología [[Segundo Cerebro|CODE]].
