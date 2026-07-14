@@ -9,5 +9,10 @@
   "obsidian-banners",
   "make-md",
   "obsidian-icons-plugin",
-  "iconic"
+  "iconic",
+  "obsidian-auto-link-title",
+  "folders2graph",
+  "csv-obsidian",
+  "obsidian-csv-table",
+  "quick-preview"
 ]

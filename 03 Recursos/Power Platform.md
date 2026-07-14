@@ -8,7 +8,7 @@ nivel: intermedio
 Suite low-code de Microsoft — nivel **intermedio** en sus tres pilares.
 
 ## Componentes que uso
-- **Power Automate** — workflows y aprobaciones ([[Automatización Power Platform]])
+- **Power Automate** — workflows y aprobaciones ([[Mesa de Ayuda]])
 - **Power Apps** — formularios digitales sobre SharePoint y [[SQL Server]]
 - **Power BI** — reportería
 

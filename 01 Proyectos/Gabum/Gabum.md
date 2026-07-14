@@ -1,3 +1,8 @@
+---
+tags:
+  - proyecto
+estado: en curso
+---
 ## Planteamiento de la idea
 1. Diseño del Juego: La Experiencia "Cozy" Post-Trabajo
 

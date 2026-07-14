@@ -1,5 +1,12 @@
 {
   "readableLineLength": false,
   "promptDelete": false,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "uriCallbacks": true,
+  "userIgnoreFilters": [
+    "graphify-out/"
+  ],
+  "rightToLeft": false
 }

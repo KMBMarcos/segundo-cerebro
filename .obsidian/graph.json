@@ -1,22 +1,44 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
-  "showAttachments": false,
-  "hideUnresolved": false,
+  "showAttachments": true,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"01 Proyectos/Hockjay OS\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7738552
+      }
+    },
+    {
+      "query": "path:graphify-out  ",
+      "color": {
+        "a": 1,
+        "rgb": 7131626
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -0.1,
+  "nodeSizeMultiplier": 1.06979166666667,
+  "lineSizeMultiplier": 1.35052083333333,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.6642194015662111,
+  "centerStrength": 0.494791666666667,
+  "repelStrength": 9.89583333333333,
+  "linkStrength": 0.994791666666667,
+  "linkDistance": 182,
+  "scale": 1.708438490426892,
   "close": true
 }

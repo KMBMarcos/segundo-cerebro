@@ -1,4 +1,6 @@
 {
   "showViewHeader": false,
-  "showRibbon": true
+  "showRibbon": true,
+  "baseFontSizeAction": false,
+  "nativeMenus": false
 }

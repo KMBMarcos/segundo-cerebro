@@ -67,7 +67,7 @@
   "openSpacesOnLaunch": true,
   "indexSVG": true,
   "readableLineWidth": false,
-  "autoAddContextsToSubtags": true,
+  "autoAddContextsToSubtags": false,
   "releaseNotesPrompt": 0.999,
   "enableDefaultSpaces": true,
   "showSpacePinIcon": true,

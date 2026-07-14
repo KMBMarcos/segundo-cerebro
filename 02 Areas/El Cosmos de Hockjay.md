@@ -1,6 +1,7 @@
-
-![Gemini_Generated_Image_iurkz3iurkz3iurk.png](El%20Cosmos%20de%20Hockjay/Gemini_Generated_Image_iurkz3iurkz3iurk.png)
-
+---
+banner: "02 Areas/El Cosmos de Hockjay/Gemini_Generated_Image_iurkz3iurkz3iurk.png"
+banner_y: "21"
+---
 ## Paleta de colores (hex)
 
 - **Morpheus Purple (Principal)**: `#2B0B3A` (morado muy oscuro)

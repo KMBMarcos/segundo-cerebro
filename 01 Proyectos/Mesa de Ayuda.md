@@ -1,9 +1,13 @@
 ---
-tags: [proyecto, automatizacion, desplegado]
+tags:
+  - proyecto
+  - automatizacion
+  - desplegado
 estado: desplegado
+aliases:
 ---
 
-# Automatización con Power Platform
+## Mesa de Ayuda
 
 Suite de workflows de negocio automatizados usando **[[Power Platform|Power Automate y Power Apps]]**.
 

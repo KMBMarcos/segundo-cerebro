@@ -1,9 +1,12 @@
 ---
-tags: [proyecto, frontend, activo]
+tags:
+  - proyecto
+  - activo
+  - personal
 estado: en curso
 ---
 
-# Portafolio Web
+## Portafolio Web
 
 Sitio personal de una sola página construido con **[[Astro]] 6 + React 19 + TailwindCSS 3**.
 

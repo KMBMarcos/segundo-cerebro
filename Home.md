@@ -12,7 +12,7 @@ Bienvenido a tu segundo cerebro. Organizado con el [[Método PARA]] y la metodol
 - [[Portafolio Web]] — sitio personal con Astro + React
 - [[API Gateway]] — gateway de servicios internos en ASP.NET Core
 - [[Pipeline de Datos ETL]] — automatización de datos con Python
-- [[Automatización Power Platform]] — workflows de negocio
+- [[Mesa de Ayuda]] — workflows de negocio
 - [[Hockjay OS]] — distro Linux personalizada
 - [[Sys-PLA]] — sistema PLAFT
 - [[ZaunService]] — plataforma de tickets en C#
