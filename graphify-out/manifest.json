@@ -1,147 +1,272 @@
 {
   "00 Inbox/C\u00f3mo usar la bandeja.md": {
-    "mtime": 1783141525.25604,
+    "mtime": 1783919409.7400064,
     "ast_hash": "d2655b25ad4171986d758fbadb8a46f6",
     "semantic_hash": "d2655b25ad4171986d758fbadb8a46f6"
   },
-  "01 Proyectos/API Gateway.md": {
-    "mtime": 1783141534.0473552,
-    "ast_hash": "3639d275802a9aac136e47f5967a67c8",
-    "semantic_hash": "3639d275802a9aac136e47f5967a67c8"
-  },
-  "01 Proyectos/Automatizaci\u00f3n Power Platform.md": {
-    "mtime": 1783141546.3174236,
-    "ast_hash": "82a8ab053e856af02966f89acb8e5b7b",
-    "semantic_hash": "82a8ab053e856af02966f89acb8e5b7b"
-  },
   "01 Proyectos/Pipeline de Datos ETL.md": {
-    "mtime": 1783141543.0203075,
-    "ast_hash": "794976a947c97fe30ce15aef2061c2e3",
-    "semantic_hash": "794976a947c97fe30ce15aef2061c2e3"
+    "mtime": 1784035767.8006768,
+    "ast_hash": "fa452fe4d3d0fef68e6b38804bf2e471",
+    "semantic_hash": "fa452fe4d3d0fef68e6b38804bf2e471"
   },
   "01 Proyectos/Portafolio Web.md": {
-    "mtime": 1783141530.8868794,
-    "ast_hash": "4e549925ba18bf4845748b2041beefad",
-    "semantic_hash": "4e549925ba18bf4845748b2041beefad"
+    "mtime": 1784035868.8568192,
+    "ast_hash": "858688045255adae1d965b7a7f2ca66f",
+    "semantic_hash": "858688045255adae1d965b7a7f2ca66f"
   },
   "02 Areas/Aprendizaje Azure.md": {
-    "mtime": 1783141565.4054806,
+    "mtime": 1783919409.7419481,
     "ast_hash": "96b3bda64f9860aa57986fff6be8b7ef",
     "semantic_hash": "96b3bda64f9860aa57986fff6be8b7ef"
   },
   "02 Areas/Carrera Backend.md": {
-    "mtime": 1783141551.9894638,
+    "mtime": 1783919409.7427912,
     "ast_hash": "dc968c9779753fb75899b26de9a1c221",
     "semantic_hash": "dc968c9779753fb75899b26de9a1c221"
   },
   "02 Areas/Marca Personal y Contenido.md": {
-    "mtime": 1783142955.7313275,
+    "mtime": 1783919409.7427912,
     "ast_hash": "88bf5e72d117819eb3c49311ea1d260e",
     "semantic_hash": "88bf5e72d117819eb3c49311ea1d260e"
   },
   "02 Areas/ONESVIE.md": {
-    "mtime": 1783142950.724286,
-    "ast_hash": "bbb3451ca07fa3e68bc1f850a9045dc8",
-    "semantic_hash": "bbb3451ca07fa3e68bc1f850a9045dc8"
+    "mtime": 1784035767.8326771,
+    "ast_hash": "367dcabb58f044bb950eca20a3b12750",
+    "semantic_hash": "367dcabb58f044bb950eca20a3b12750"
   },
   "03 Recursos/ASP.NET Core.md": {
-    "mtime": 1783141598.7023523,
+    "mtime": 1783919409.7427912,
     "ast_hash": "14374d475b0df49eee039e9b538561a7",
     "semantic_hash": "14374d475b0df49eee039e9b538561a7"
   },
   "03 Recursos/Astro.md": {
-    "mtime": 1783141618.8508453,
+    "mtime": 1783919409.7429483,
     "ast_hash": "b188b2424b7b7879eb06b1e72fc91fea",
     "semantic_hash": "b188b2424b7b7879eb06b1e72fc91fea"
   },
   "03 Recursos/Azure.md": {
-    "mtime": 1783141611.2272706,
+    "mtime": 1783919409.7429483,
     "ast_hash": "807c84c7829e547b97e66efa39d794db",
     "semantic_hash": "807c84c7829e547b97e66efa39d794db"
   },
   "03 Recursos/M\u00e9todo PARA.md": {
-    "mtime": 1783141583.3031254,
+    "mtime": 1783919409.7429483,
     "ast_hash": "9d87f86d302c533532294a0026a4fe76",
     "semantic_hash": "9d87f86d302c533532294a0026a4fe76"
   },
   "03 Recursos/PostgreSQL.md": {
-    "mtime": 1783141607.439231,
+    "mtime": 1783919409.7429483,
     "ast_hash": "6c3a795645cb69a6b555be034986688f",
     "semantic_hash": "6c3a795645cb69a6b555be034986688f"
   },
   "03 Recursos/Power Platform.md": {
-    "mtime": 1783141615.5024765,
-    "ast_hash": "d8935914aef9e1a51ffebfbf71369dad",
-    "semantic_hash": "d8935914aef9e1a51ffebfbf71369dad"
+    "mtime": 1784035767.8696775,
+    "ast_hash": "3baca014e4f8ec16cbc4491d642f191a",
+    "semantic_hash": "3baca014e4f8ec16cbc4491d642f191a"
   },
   "03 Recursos/Python.md": {
-    "mtime": 1783142953.5918887,
+    "mtime": 1783919409.7439482,
     "ast_hash": "5192f25d6fab56fc044f7cc42a527d0b",
     "semantic_hash": "5192f25d6fab56fc044f7cc42a527d0b"
   },
   "03 Recursos/SQL Server.md": {
-    "mtime": 1783141601.50568,
-    "ast_hash": "713e43cb6115c9b8114b8b61df96a6d2",
-    "semantic_hash": "713e43cb6115c9b8114b8b61df96a6d2"
+    "mtime": 1784035767.9196782,
+    "ast_hash": "d6f6e4f394dacdb2fc88df2d75e2cf5f",
+    "semantic_hash": "d6f6e4f394dacdb2fc88df2d75e2cf5f"
   },
   "03 Recursos/Segundo Cerebro.md": {
-    "mtime": 1783141580.373385,
+    "mtime": 1783919409.7439482,
     "ast_hash": "a092273245aef65f304dfc8f6d6c4d78",
     "semantic_hash": "a092273245aef65f304dfc8f6d6c4d78"
   },
   "03 Recursos/Stack T\u00e9cnico.md": {
-    "mtime": 1783141592.059196,
+    "mtime": 1783919409.7439482,
     "ast_hash": "229f59fd52126f3f6ab2e2b7a6064f9d",
     "semantic_hash": "229f59fd52126f3f6ab2e2b7a6064f9d"
   },
   "03 Recursos/Workstation.md": {
-    "mtime": 1783141626.7199314,
+    "mtime": 1783919409.7439482,
     "ast_hash": "ee419178e9ba6089bfbbbb507cf8e5b7",
     "semantic_hash": "ee419178e9ba6089bfbbbb507cf8e5b7"
   },
   "04 Archivo/No Country.md": {
-    "mtime": 1783141630.9129426,
+    "mtime": 1783919409.7439482,
     "ast_hash": "7203d613ab328737bd4e20a4a1144489",
     "semantic_hash": "7203d613ab328737bd4e20a4a1144489"
   },
   "05 Plantillas/Plantilla de Nota Diaria.md": {
-    "mtime": 1783141635.3507273,
+    "mtime": 1783919409.74543,
     "ast_hash": "421cc4406a81ce3434b1678e49ef216e",
     "semantic_hash": "421cc4406a81ce3434b1678e49ef216e"
   },
   "05 Plantillas/Plantilla de Proyecto.md": {
-    "mtime": 1783141633.8269987,
+    "mtime": 1783919409.7458236,
     "ast_hash": "f330b12e42c26600e634d7e6b6aa243a",
     "semantic_hash": "f330b12e42c26600e634d7e6b6aa243a"
   },
   "Home.md": {
-    "mtime": 1783142947.880192,
-    "ast_hash": "73fa1020ce26f9c06e1f0ce7dbb1492b",
-    "semantic_hash": "73fa1020ce26f9c06e1f0ce7dbb1492b"
-  },
-  "01 Proyectos/Hockjay OS.md": {
-    "mtime": 1783142910.6304374,
-    "ast_hash": "4f8c28ac1d6f60072aa78b779a019ced",
-    "semantic_hash": "4f8c28ac1d6f60072aa78b779a019ced"
+    "mtime": 1784035767.9616785,
+    "ast_hash": "8ebf4e7f5c79f156c4435465586a71e3",
+    "semantic_hash": "8ebf4e7f5c79f156c4435465586a71e3"
   },
   "01 Proyectos/Sys-PLA.md": {
-    "mtime": 1783142914.3834925,
+    "mtime": 1783919409.7411137,
     "ast_hash": "9a526a1f15522e840e19e00d64386795",
     "semantic_hash": "9a526a1f15522e840e19e00d64386795"
   },
   "01 Proyectos/ZaunService.md": {
-    "mtime": 1783142917.3331118,
+    "mtime": 1783919409.7411137,
     "ast_hash": "043ce7716770f366cdac649ebe1a7fb0",
     "semantic_hash": "043ce7716770f366cdac649ebe1a7fb0"
   },
   "03 Recursos/Perfil GitHub.md": {
-    "mtime": 1783142930.5655265,
+    "mtime": 1783919409.7429483,
     "ast_hash": "ff197f496d5eab15928f9b84cde8e478",
     "semantic_hash": "ff197f496d5eab15928f9b84cde8e478"
   },
   "04 Archivo/Proyectos de Aprendizaje GitHub.md": {
-    "mtime": 1783142936.3270867,
+    "mtime": 1784056195.1536477,
     "ast_hash": "3532fd21defd92f2b4098f2705f4cd24",
     "semantic_hash": "3532fd21defd92f2b4098f2705f4cd24"
+  },
+  "01 Proyectos/Gabum/Gabum.md": {
+    "mtime": 1784035019.0583086,
+    "ast_hash": "7254222b9691c51ac25f5c62076b3f01",
+    "semantic_hash": "7254222b9691c51ac25f5c62076b3f01"
+  },
+  "01 Proyectos/Hockjay OS/Hockjay OS - Parrot Variant.md": {
+    "mtime": 1784035512.848804,
+    "ast_hash": "330d7b79da9ebe9a5231452bb1373ed9",
+    "semantic_hash": "330d7b79da9ebe9a5231452bb1373ed9"
+  },
+  "01 Proyectos/Hockjay OS/Hockjay OS.md": {
+    "mtime": 1783919409.7411137,
+    "ast_hash": "4f8c28ac1d6f60072aa78b779a019ced",
+    "semantic_hash": "4f8c28ac1d6f60072aa78b779a019ced"
+  },
+  "01 Proyectos/Index.md": {
+    "mtime": 1783990096.2379043,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "01 Proyectos/Mesa de Ayuda.md": {
+    "mtime": 1784036521.2962224,
+    "ast_hash": "770fced3e26f54e747d3167f3f86806c",
+    "semantic_hash": "770fced3e26f54e747d3167f3f86806c"
+  },
+  "01 Proyectos/Proyectos - Notion/App de Finanzas Personales.md": {
+    "mtime": 1783990096.252901,
+    "ast_hash": "ff6307836664558121e67884f1ce9c2b",
+    "semantic_hash": "ff6307836664558121e67884f1ce9c2b"
+  },
+  "01 Proyectos/Proyectos - Notion/Blog - CMS.md": {
+    "mtime": 1783990096.2541537,
+    "ast_hash": "c8503fe8e8d35379449cdad4c49c9d66",
+    "semantic_hash": "c8503fe8e8d35379449cdad4c49c9d66"
+  },
+  "01 Proyectos/Proyectos - Notion/CLI Multiproposito.md": {
+    "mtime": 1783990096.2541537,
+    "ast_hash": "c51fb7ebb786b66c66a3e6a959a4edd9",
+    "semantic_hash": "c51fb7ebb786b66c66a3e6a959a4edd9"
+  },
+  "01 Proyectos/Proyectos - Notion/Chat en tiempo real.md": {
+    "mtime": 1783990096.2541537,
+    "ast_hash": "6217037f2ce1e4c0ee927e7d51491ba2",
+    "semantic_hash": "6217037f2ce1e4c0ee927e7d51491ba2"
+  },
+  "01 Proyectos/Proyectos - Notion/ChatIA enfocado a 1 tema.md": {
+    "mtime": 1783990096.2541537,
+    "ast_hash": "6be5a4af559862f8346114022841cbaa",
+    "semantic_hash": "6be5a4af559862f8346114022841cbaa"
+  },
+  "01 Proyectos/Proyectos - Notion/Crear mi blockchain.md": {
+    "mtime": 1783990096.2541537,
+    "ast_hash": "c51fb7ebb786b66c66a3e6a959a4edd9",
+    "semantic_hash": "c51fb7ebb786b66c66a3e6a959a4edd9"
+  },
+  "01 Proyectos/Proyectos - Notion/E-commerce.md": {
+    "mtime": 1783990096.2541537,
+    "ast_hash": "d05f17b3c9c6f8f184659fd37741452a",
+    "semantic_hash": "d05f17b3c9c6f8f184659fd37741452a"
+  },
+  "01 Proyectos/Proyectos - Notion/Escaner de QR + Acortador de Links.md": {
+    "mtime": 1783990096.2541537,
+    "ast_hash": "bf1cc9e83eb60ae4bd2ec44f1a4126d2",
+    "semantic_hash": "bf1cc9e83eb60ae4bd2ec44f1a4126d2"
+  },
+  "01 Proyectos/Proyectos - Notion/Inventario.md": {
+    "mtime": 1783990096.2549007,
+    "ast_hash": "ffcdecca08da067efa8d32d99fb01e67",
+    "semantic_hash": "ffcdecca08da067efa8d32d99fb01e67"
+  },
+  "01 Proyectos/Proyectos - Notion/Reunion con Alexander Para Mostrar MVP.md": {
+    "mtime": 1783990096.2549007,
+    "ast_hash": "165e71c4a6d37da35ce3e8880127cf7c",
+    "semantic_hash": "165e71c4a6d37da35ce3e8880127cf7c"
+  },
+  "01 Proyectos/Proyectos - Notion/Scheduler - Planificador de tarea.md": {
+    "mtime": 1783990096.2549007,
+    "ast_hash": "9c38bd6f457d27677702704e8d81cadc",
+    "semantic_hash": "9c38bd6f457d27677702704e8d81cadc"
+  },
+  "01 Proyectos/Proyectos - Notion/Servicios de facturaci\u00f3n electr\u00f3nica.md": {
+    "mtime": 1783990096.2549007,
+    "ast_hash": "c7373af34dc6b06af293634234f5a37f",
+    "semantic_hash": "c7373af34dc6b06af293634234f5a37f"
+  },
+  "01 Proyectos/Proyectos - Notion/Sistema PLAFT.md": {
+    "mtime": 1783990096.2549007,
+    "ast_hash": "073ae88034da45995a160588e0d69fee",
+    "semantic_hash": "073ae88034da45995a160588e0d69fee"
+  },
+  "01 Proyectos/Proyectos - Notion/Sistema de Historial Medico.md": {
+    "mtime": 1783990096.2559004,
+    "ast_hash": "c435d684f1f1460ec6d2e286ba902ce3",
+    "semantic_hash": "c435d684f1f1460ec6d2e286ba902ce3"
+  },
+  "01 Proyectos/Proyectos - Notion/Sistema de reservas.md": {
+    "mtime": 1783990096.2559004,
+    "ast_hash": "ffcdecca08da067efa8d32d99fb01e67",
+    "semantic_hash": "ffcdecca08da067efa8d32d99fb01e67"
+  },
+  "01 Proyectos/Proyectos - Notion/Sistemas de alertas.md": {
+    "mtime": 1783990096.2559004,
+    "ast_hash": "d687b19326db127e54cdf75a44e66e2d",
+    "semantic_hash": "d687b19326db127e54cdf75a44e66e2d"
+  },
+  "01 Proyectos/Proyectos - Notion/Web Crawler.md": {
+    "mtime": 1783990096.2559004,
+    "ast_hash": "e680428aa67bf356c4e5a21bd32a434b",
+    "semantic_hash": "e680428aa67bf356c4e5a21bd32a434b"
+  },
+  "02 Areas/El Cosmos de Hockjay.md": {
+    "mtime": 1784056800.5867732,
+    "ast_hash": "26b9f79620c757b6af9a36dddc790d8f",
+    "semantic_hash": "26b9f79620c757b6af9a36dddc790d8f"
+  },
+  "02 Areas/Iglesia/Evangelismo y Mision.md": {
+    "mtime": 1784088548.876401,
+    "ast_hash": "11e7c00592c465b44db05df8fb4ed3e6",
+    "semantic_hash": "11e7c00592c465b44db05df8fb4ed3e6"
+  },
+  "Notion/Cypher.md": {
+    "mtime": 1784038462.0118544,
+    "ast_hash": "756bad1598e4784d375a9762280c8e54",
+    "semantic_hash": "756bad1598e4784d375a9762280c8e54"
+  },
+  "README.md": {
+    "mtime": 1783919409.7458236,
+    "ast_hash": "df7d08cf89f256240989cb22102f7c4a",
+    "semantic_hash": "df7d08cf89f256240989cb22102f7c4a"
+  },
+  "Tags/#proyectos/#proyectos.md": {
+    "mtime": 1784034941.7884624,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "02 Areas/El Cosmos de Hockjay/Gemini_Generated_Image_iurkz3iurkz3iurk.png": {
+    "mtime": 1783990096.2499018,
+    "ast_hash": "e6d47b12e09f50cff358c5fa554cc8b9",
+    "semantic_hash": "e6d47b12e09f50cff358c5fa554cc8b9"
   }
 }
