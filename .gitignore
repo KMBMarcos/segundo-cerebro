@@ -3,6 +3,9 @@
 .obsidian/workspace-mobile.json
 .obsidian/cache
 
+# Caché local del plugin Make.md (se regenera sola)
+.makemd/
+
 # Archivos internos temporales de graphify (rutas absolutas de esta máquina)
 graphify-out/.graphify_python
 graphify-out/.graphify_root
