@@ -8,5 +8,6 @@
   "userIgnoreFilters": [
     "graphify-out/"
   ],
-  "rightToLeft": false
+  "rightToLeft": false,
+  "strictLineBreaks": false
 }

@@ -38,7 +38,9 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//02 Areas",
+    "//02 Areas/02 Areas/Iglesia"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -50,6 +52,8 @@
     "_assets",
     "_blocks"
   ],
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
