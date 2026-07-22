@@ -1,6 +1,7 @@
 views:
   - type: table
     name: Tabla
+    sort: []
   - type: table
     name: Vista
     sort:

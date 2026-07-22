@@ -12,9 +12,9 @@ aliases:
 Suite de workflows de negocio automatizados usando **[[Power Platform|Power Automate y Power Apps]]**.
 
 ## Qué hace
-- Reemplaza procesos manuales de aprobación con formularios digitales
-- Notificaciones automáticas
-- Integración con bases de datos [[SQL Server]] y SharePoint
+- Reemplaza procesos manuales de solicitudes, aprovación y gestión de los servicios TIC.
+- Notificaciones automáticas a los usuarios y tecnicos.
+- Integración con bases de datos [[SQL Server]] y SharePoint.
 
 ## Stack
 Power Automate · Power Apps · SharePoint · [[SQL Server]] · [[Azure]]

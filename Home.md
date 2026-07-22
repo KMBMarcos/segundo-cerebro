@@ -13,9 +13,10 @@ Bienvenido a tu segundo cerebro. Organizado con el [[Método PARA]] y la metodol
 - [[API Gateway]] — gateway de servicios internos en ASP.NET Core
 - [[Pipeline de Datos ETL]] — automatización de datos con Python
 - [[Mesa de Ayuda]] — workflows de negocio
-- [[Hockjay OS]] — distro Linux personalizada
+- [[Hockjay OS - Mint Variant]] — distro Linux personalizada
 - [[Sys-PLA]] — sistema PLAFT
 - [[ZaunService]] — plataforma de tickets en C#
+- [[Business Management]] — gestión de proyectos y brain externo
 
 ## 🌱 Áreas de responsabilidad
 - [[Carrera Backend]] — desarrollo profesional
@@ -28,6 +29,7 @@ Bienvenido a tu segundo cerebro. Organizado con el [[Método PARA]] y la metodol
 - [[Perfil GitHub]] — repos y presencia en GitHub
 - [[Segundo Cerebro]] — la metodología de este vault
 - [[Workstation]] — setup de hardware y herramientas
+- [[Gestión Empresarial]] — vault externo de gestión y control profesional
 
 ## 🗄️ Archivo
 - [[No Country]] — experiencia 2023–2024

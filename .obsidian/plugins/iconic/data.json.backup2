@@ -33,19 +33,6 @@
   "tagIcons": {},
   "propertyIcons": {},
   "ribbonIcons": {},
-  "fileRules": [
-    {
-      "id": "ksoZZ",
-      "name": "Untitled rule",
-      "match": "all",
-      "conditions": [
-        {
-          "source": "name",
-          "operator": "contains"
-        }
-      ],
-      "enabled": true
-    }
-  ],
+  "fileRules": [],
   "folderRules": []
 }

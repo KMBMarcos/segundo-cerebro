@@ -1,18 +1,15 @@
 ---
 tags: [area, contenido, creatividad]
 ---
-
-# Marca Personal y Contenido
-
 Área creativa que complementa la [[Carrera Backend]]: construir presencia y compartir conocimiento.
 
-## Frentes
-- **📸 Fotografía** — arquitectura, paisajes urbanos y momentos cotidianos.
-- **🎙️ Streaming** — sesiones en vivo sobre tech, workflow de desarrollo y gaming.
-- **✍️ Creación de contenido** — insights de desarrollo, tutoriales y notas técnicas.
+## Frentes  
+| - **📸 Fotografía** — arquitectura                      | paisajes urbanos y momentos cotidianos. |
+| :------------------------------------------------------ | :-------------------------------------- |
+| - **🎙️ Streaming** — sesiones en vivo sobre tech       | workflow de desarrollo y gaming.        |
+| - **✍️ Creación de contenido** — insights de desarrollo | tutoriales y notas técnicas.            |
 
 ## Activos
-- [[Portafolio Web]] — la vitrina central
 - [[Perfil GitHub]] — 20 repos públicos, 14 seguidores
 - LinkedIn: Marcos Mateo Tiburcio
 
