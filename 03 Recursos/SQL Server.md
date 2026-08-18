@@ -10,7 +10,7 @@ Base de datos principal en el trabajo — nivel **avanzado**.
 ## Usos actuales
 - Bases de datos de [[ONESVIE]] (operaciones críticas de rendimiento)
 - Backend del [[API Gateway]]
-- Integración con [[Power Platform]] y SharePoint ([[Mesa de Ayuda]])
+- Integración con [[Power Platform]] y SharePoint ([[Mesa de Ayuda (ONESVIE)]])
 
 ## Fortalezas
 - Optimización de queries y mantenimiento

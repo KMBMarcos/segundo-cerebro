@@ -9,7 +9,7 @@ Cuenta desde **mayo 2022** · 20 repos públicos · 14 seguidores (datos: julio 
 
 ## Repos activos (2026)
 - [[Hockjay OS - Mint Variant]] — distro Linux personalizada (Shell)
-- [[Sys-PLA]] — sistema PLAFT (HTML)
+- [[Sys - PLA]] — sistema PLAFT (HTML)
 - [[ZaunService]] — plataforma de tickets en C#
 - `onesvie-subdominio-reed` — Portal de Capacitación [[ONESVIE]] (fork)
 - `Business-Management` — plataforma de gestión empresarial (fork)

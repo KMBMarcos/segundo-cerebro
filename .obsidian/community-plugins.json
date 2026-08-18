@@ -12,9 +12,9 @@
   "iconic",
   "obsidian-auto-link-title",
   "folders2graph",
-  "csv-obsidian",
-  "obsidian-csv-table",
   "quick-preview",
   "dataview",
-  "templater-obsidian"
+  "templater-obsidian",
+  "csv-viewer",
+  "obsidian-local-rest-api"
 ]

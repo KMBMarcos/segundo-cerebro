@@ -15,6 +15,7 @@ Crear una versión de Linux Mint adaptada a mi flujo de trabajo — un sistema o
 Este proyecto tenía una nota vacía (`HockjayOs.md`) en un vault de Obsidian anterior desde diciembre 2025 — la idea llevaba tiempo esperando ser documentada.
 
 ## Relacionado
+- [[OpenCode - Setup y Configuración]] — config de opencode (plugins, skills, MCP) para replicar en esta máquina
 - [[Workstation]] — el entorno donde se desarrolla y prueba
 - [[Perfil GitHub]] — repo público
 - [[Marca Personal y Contenido]] — potencial contenido: "construyendo mi propia distro"

@@ -19,6 +19,17 @@ Mostrar perfil, experiencia y proyectos como Backend Developer para conseguir op
 - Terminal animada de arranque como isla React (`Terminal.tsx`).
 - Diseño: fondo `#080808`, acento púrpura eléctrico `#9B30FF`, fuentes Syne y JetBrains Mono.
 
+## Comandos
+> **Ruta**: `C:\Users\XMK-PC03\Documents\Proyectos\mi-portafolio` · Instrucciones: `CLAUDE.md`
+
+```bash
+pnpm dev      # desarrollo
+pnpm build    # build → dist/
+pnpm preview  # previsualizar build
+```
+
+Sin tests ni lint. Astro 6 + React 19 + Tailwind 3.
+
 ## Despliegue
 - Netlify (`pnpm build` → `dist/`)
 - GitHub Pages como alternativa

@@ -1,26 +1,37 @@
 ---
-tags: [proyecto]
+tags:
+  - proyecto
+  - workspace
+  - fastify
+  - react
+estado: en curso
+ruta: C:\Users\XMK-PC03\Documents\Proyectos\Business-Management
 ---
 
-# Business Management — Gestión y Brain
+# Business Management (DevFast)
 
----
-**Estado**: en curso
-**Fecha límite**: Indefinida (Responsabilidad continua / Workspace)
-**Resultado esperado**: Sistema centralizado de gestión de proyectos, decisiones (`Key Decisions`), reuniones 1-1 y automatizaciones con agentes Claude en `/home/kmb/Work/Business-Management/project-vault`.
+## Resumen
+Sistema de gestión empresarial (DevFast): API con Fastify + Prisma y frontend React + Vite, base de datos SQLite.
 
-## Objetivo
-Centralizar y sincronizar la gestión operativa, bitácoras de trabajo, bases de datos de Obsidian (`/bases`) y memoria persistente (`/brain`) del vault externo de proyectos.
+## Stack
+Fastify + Prisma (backend/) · React + Vite (frontend/) · SQLite
 
-## Componentes clave
-- **Brain (`/brain`)**: `North Star`, `Key Decisions`, `Patterns`, `Gotchas`, `Skills`.
-- **Work (`/work`)**: Tareas activas, historial de 1-1 (`/work/1-1`).
-- **Bases (`/bases`)**: Vistas estructuradas para tableros de trabajo y mapas de competencias.
+## Comandos clave
+```bash
+# Backend (puerto 3001)
+cd backend
+npx prisma generate
+npx prisma db push
+npm run dev
 
-## Próximas acciones
-- [ ] Mantener referencias sincronizadas con el Segundo Cerebro principal.
-- [ ] Revisar tableros en `Bases/` regularmente.
+# Frontend (puerto 5173)
+cd frontend
+npm run dev
+
+# Deploy
+deploy.sh
+```
 
 ## Relacionado
+- [[Index]]
 - [[Home]]
-- [[Gestión Empresarial]]

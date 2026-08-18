@@ -38,8 +38,8 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "//02 Areas",
     "//02 Areas/02 Areas/Iglesia",
+    "//01 Proyectos",
     "/"
   ],
   "expandFolderOnClick": true,
