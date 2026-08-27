@@ -1,7 +1,6 @@
 ---
 tags: [inbox, guia]
 ---
-
 # Cómo usar la bandeja de entrada
 
 Esta carpeta es el punto de **captura** del [[Segundo Cerebro]]: cualquier idea, enlace, apunte o pendiente entra aquí sin pensarlo mucho.
